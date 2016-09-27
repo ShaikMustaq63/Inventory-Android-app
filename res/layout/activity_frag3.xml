@@ -1,0 +1,123 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back2" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Order no."
+            android:layout_marginTop="40sp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ccode"
+            android:layout_marginTop="108sp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Icode"
+            android:layout_marginTop="168sp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Quantity"
+            android:layout_marginTop="235sp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date"
+            android:layout_marginTop="300sp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/qty"
+            android:layout_width="205dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="140sp"
+            android:layout_marginTop="232sp"
+            android:ems="10"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/date"
+            android:layout_width="201dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="140sp"
+            android:layout_marginTop="302sp"
+            android:ems="10"
+            android:hint="dd/mm/yyyy"
+            android:inputType="date" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:layout_marginTop="390sp"
+            android:layout_gravity="center_horizontal" 
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:background="@android:color/transparent"
+            android:textColor="#691744"/>
+
+        <Spinner
+            android:id="@+id/ccode"
+            android:layout_width="207dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="140sp"
+            android:layout_marginTop="105sp"
+             />
+
+        <Spinner
+            android:id="@+id/icode"
+            android:layout_width="207dp"
+            android:layout_height="44dp"
+            android:layout_marginLeft="140sp"
+            android:layout_marginTop="165sp" />
+
+        <TextView
+            android:id="@+id/orderno"
+            android:layout_width="209dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="140sp"
+            android:layout_marginTop="42sp"
+            android:ems="10"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </FrameLayout>
+
+</LinearLayout>
