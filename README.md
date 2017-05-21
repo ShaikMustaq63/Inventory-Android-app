@@ -10,6 +10,7 @@ Tha app is still under development. To run the app go to the bin folder and down
 
 ![Screen 1](https://github.com/prakhark3/Inventory-Android-app/blob/master/screenshot/Screenshot_2016-07-27-15-43-44.png)
 
+<img src="https://github.com/prakhark3/Inventory-Android-app/blob/master/screenshot/Screenshot_2016-07-27-15-43-44.png" />
 
 ![Screen 2](https://github.com/prakhark3/Inventory-Android-app/blob/master/screenshot/Screenshot_2016-07-27-15-43-54.png)
 
