@@ -11,16 +11,14 @@ Tha app is still under development. To run the app go to the bin folder and down
 
 <img src="screenshot/Screenshot_2016-07-27-15-43-44.png" alt="Screen 1" height="500" width="295"  />
 
-![Screen 2](https://github.com/prakhark3/Inventory-Android-app/blob/master/screenshot/Screenshot_2016-07-27-15-43-54.png)
+<img src="screenshot/Screenshot_2016-07-27-15-43-54.png" alt="Screen 2" height="500" width="295"  />
+
+<img src="screenshot/Screenshot_2016-07-27-15-44-25.png" alt="Screen 3" height="500" width="295"  />
+
+<img src="screenshot/Screenshot_2016-07-27-15-44-47.png" alt="Screen 4" height="500" width="295"  />
+
+<img src="screenshot/Screenshot_2016-07-27-17-24-17.png" alt="Screen 5" height="500" width="295"  />
+
+<img src="screenshot/Screenshot_2016-07-27-15-45-07.png" alt="Screen 6" height="500" width="295"  />
 
 
-![Screen 3](https://github.com/prakhark3/Inventory-Android-app/blob/master/screenshot/Screenshot_2016-07-27-15-44-25.png)
-
-
-![Screen 4](https://github.com/prakhark3/Inventory-Android-app/blob/master/screenshot/Screenshot_2016-07-27-15-44-47.png)
-
-
-![Screen 5](https://github.com/prakhark3/Inventory-Android-app/blob/master/screenshot/Screenshot_2016-07-27-17-24-17.png)
-
-
-![Screen 6](https://github.com/prakhark3/Inventory-Android-app/blob/master/screenshot/Screenshot_2016-07-27-15-45-07.png)
