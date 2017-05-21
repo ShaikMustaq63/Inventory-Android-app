@@ -6,4 +6,4 @@ First the user has to login if already registered. The different tabs can be nav
 
 Tha app is still under development. To run the app go to the bin folder and download the 'Inventory.apk' file and the install it on your android phones or you can also run it on android emulators. If you use android studio or eclipse then simply download the whole folder and simply import it into you workplace. 
 
-Also the screenshots of the app have been added so that you can have a look at the app wthout running it. They are in the screenshots.zip folder.
+![Screen 1](Screenshot/Screenshot_2016-07-27-15-43-44.png)
